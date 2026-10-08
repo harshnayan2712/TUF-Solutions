@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 0 | 16 | 0 | `2026-10-05` |
+| **17** | 0 | 17 | 0 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (16)
+### DSA (17)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,14 +24,15 @@
 | 0006 | [920. Pattern 14](./DSA/General/pattern-14) | [CPP](./DSA/General/pattern-14/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
 | 0007 | [929. Pattern 15](./DSA/General/pattern-15) | [CPP](./DSA/General/pattern-15/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-04` |
 | 0008 | [931. Pattern 16](./DSA/General/pattern-16) | [CPP](./DSA/General/pattern-16/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0009 | [953. Pattern 2](./DSA/Beginner-Problems/pattern-2) | [CPP](./DSA/Beginner-Problems/pattern-2/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
-| 0010 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0011 | [984. Pattern 4](./DSA/Beginner-Problems/pattern-4) | [CPP](./DSA/Beginner-Problems/pattern-4/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
-| 0012 | [986. Pattern 5](./DSA/Beginner-Problems/pattern-5) | [CPP](./DSA/Beginner-Problems/pattern-5/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
-| 0013 | [995. Pattern 6](./DSA/Beginner-Problems/pattern-6) | [CPP](./DSA/Beginner-Problems/pattern-6/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
-| 0014 | [997. Pattern 7](./DSA/Beginner-Problems/pattern-7) | [CPP](./DSA/Beginner-Problems/pattern-7/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
-| 0015 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
-| 0016 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0009 | [940. Pattern 17](./DSA/General/pattern-17) | [CPP](./DSA/General/pattern-17/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0010 | [953. Pattern 2](./DSA/Beginner-Problems/pattern-2) | [CPP](./DSA/Beginner-Problems/pattern-2/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
+| 0011 | [975. Pattern 3](./DSA/General/pattern-3) | [CPP](./DSA/General/pattern-3/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
+| 0012 | [984. Pattern 4](./DSA/Beginner-Problems/pattern-4) | [CPP](./DSA/Beginner-Problems/pattern-4/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
+| 0013 | [986. Pattern 5](./DSA/Beginner-Problems/pattern-5) | [CPP](./DSA/Beginner-Problems/pattern-5/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
+| 0014 | [995. Pattern 6](./DSA/Beginner-Problems/pattern-6) | [CPP](./DSA/Beginner-Problems/pattern-6/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
+| 0015 | [997. Pattern 7](./DSA/Beginner-Problems/pattern-7) | [CPP](./DSA/Beginner-Problems/pattern-7/solution.cpp) | ⚪ Unspecified | `Beginner-Problems` | `2026-09-28` |
+| 0016 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
+| 0017 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-29` |
 
 ---
 
